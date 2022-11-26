@@ -11,5 +11,8 @@ class MainActivity : AppCompatActivity() {
 
 
         Log.e("TAG", "onCreate: ", )
+        Log.e("TAG", "onCreate: ", )
+        Log.e("TAG", "onCreate: ", )
+        Log.e("TAG", "onCreate: ", )
     }
 }
